@@ -153,7 +153,7 @@ To install <AnimatedCode>@solana/web3.js</AnimatedCode>, set up your project the
 
 <Spacer />
 
-<AnimatedCode>npm install @solana/web3.js</AnimatedCode>
+<AnimatedCode>npm install @solana/web3.js@1</AnimatedCode>
 
 <Spacer />
 
@@ -216,7 +216,7 @@ Structurally, the app is composed of <AnimatedCode>index.tsx</AnimatedCode> and 
 
 ### 2. Install Dependencies
 
-Use <AnimatedCode>npm install @solana/web3.js</AnimatedCode> to install our dependency on Solana’s Web3 library.
+Use <AnimatedCode>npm install @solana/web3.js@1</AnimatedCode> to install our dependency on Solana’s Web3 library.
 
 <Spacer />
 
